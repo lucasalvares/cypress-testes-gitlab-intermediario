@@ -20,3 +20,4 @@ Qualquer dúvida entrar em contato!!
 - Execução de comandos à nível de sistema operacional
 - Teste de leitura de arquivos
 
+# cypress-testes-gitlab-intermediario
